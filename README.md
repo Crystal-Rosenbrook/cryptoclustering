@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-[Homework Files](#homeworkfiles)
+[Homework Files](#homework_files)
 
 [Introduction](#introduction)
 
@@ -17,7 +17,7 @@
 
 [Dataset](#dataset)
 
-### Homework Files
+### Homework_Files
 Crypto_Clustering.ipynb and crypto_market_data.csv
 
 ### Introduction
@@ -25,10 +25,15 @@ The Cryptocurrency Clustering Analysis project aims to provide an insight into t
 
 ### Prerequisites
 Python 3.x
+
 Pandas
+
 Matplotlib
+
 scikit-learn
+
 HoloViews
+
 hvPlot
 
 ### Installation
